@@ -1,0 +1,17 @@
+[
+     {
+          "id": 501,
+          "name": "Bob",
+          "address": "27 Waverly Place"
+     },
+     {
+          "id": 502,
+          "name": "Tom",
+          "address": "72 Washington Place"
+     },
+     {
+          "id": 503,
+          "name": "Tim",
+          "address": "13 Cornelia Street"
+     }
+]
